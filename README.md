@@ -2,7 +2,7 @@
 
 **Last Updated: February 16, 2026**
 
-JDA Labs LLC ("we," "our," or "us") operates the DealBeam mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+jdablabs LLC ("we," "our," or "us") operates the DealBeam mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
 
 ## Information We Collect
 
@@ -77,5 +77,5 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have questions or concerns about this Privacy Policy, please contact us:
 
 **JDA Labs LLC**
-Email: support@jdablabsllc.com
+Email: jdablabsllc@gmail.com
 Website: [www.jdablabsllc.com](https://www.jdablabsllc.com)
